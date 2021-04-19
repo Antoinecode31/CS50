@@ -23,3 +23,4 @@ int main(void)
     }
     printf("%i\n", coins);
 }
+
